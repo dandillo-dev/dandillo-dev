@@ -5,7 +5,7 @@
 └─$ whoami
 
 lofi_driver
-Dandillo.exe — 99.99% usage
+<<<<   Dandillo   >>>>
 
 Compiling dreams into reality... no errors yet.
 Crafting things nobody asked for but somehow needed.
