@@ -5,7 +5,7 @@
 └─$ whoami
 
 lofi_driver
-<<<<   Dandillo   >>>>
+〔 Dandillo 〕
 
 Compiling dreams into reality... no errors yet.
 Crafting things nobody asked for but somehow needed.
@@ -15,11 +15,9 @@ Crafting things nobody asked for but somehow needed.
 
 ```txt
 status: probably building something weird...
-location: Third Rock from the Sun
+origin: Third Rock from the Sun
 mood: rainy terminal sounds at 2:13 AM
 ```
-
-<div align="center">
 
 ```txt
 ~/access_points
@@ -30,6 +28,7 @@ mood: rainy terminal sounds at 2:13 AM
 <a href="https://guns.lol/dandillo">space</a>
 
 </div>
+
 ---
 
 ## ~/about_me
@@ -71,9 +70,13 @@ loading:
 
 ## ~/system_stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=probably+building+something+weird...;compiling+dreams+into+reality;late+night+coding+session;digital+rain+%7C+system+idle" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=probably+building+something+weird...;compiling+dreams+into+reality;late+night+coding+session;digital+rain+%7C+system+idle" />
+
+</div>
+
+---
 
 <div align="center">
 
