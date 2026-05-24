@@ -66,9 +66,10 @@ loading:
 
 ## ~/system_stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=probably+building+something+weird...;compiling+dreams+into+reality;late+night+coding+session;digital+rain+%7C+system+idle" />
-</p>
+<div align="center">
+
+```txt
+visitors drifting through this terminal
 
 
 <div align="center">
