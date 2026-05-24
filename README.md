@@ -21,7 +21,13 @@ mood: rainy terminal sounds at 2:13 AM
 
 <div align="center">
 
-`[ terminal ]` • `[ space ]`
+```txt
+~/access_points
+```
+
+<a href="https://dandillo.netlify.app/">terminal</a>
+‎ ‎ ✦ ‎ ‎
+<a href="https://guns.lol/dandillo">space</a>
 
 </div>
 ---
