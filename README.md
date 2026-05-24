@@ -43,7 +43,7 @@ mood: rainy terminal sounds at 2:13 AM
 
 ```txt
 frontend   :: html / css / javascript
-design     :: figma / photoshop
+design     :: figma / affinity
 workflow   :: vscode / github / late night playlists
 style      :: cinematic / minimal / cozy-dev
 ```
