@@ -70,11 +70,6 @@ loading:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8A8A8A&center=true&vCenter=true&width=500&lines=probably+building+something+weird...;compiling+dreams+into+reality;late+night+coding+session;digital+rain+%7C+system+idle" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dandillo-dev&hide_border=true&background=00000000&ring=777777&fire=999999&currStreakLabel=aaaaaa&sideLabels=777777&currStreakNum=ffffff&sideNums=aaaaaa" />
-</p>
-
----
 
 <div align="center">
 
