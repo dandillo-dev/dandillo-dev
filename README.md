@@ -19,8 +19,6 @@ location: Third Rock from the Sun
 mood: rainy terminal sounds at 2:13 AM
 ```
 
-<br>
-
 ```txt
 [ access points ]
 ```
@@ -29,8 +27,6 @@ mood: rainy terminal sounds at 2:13 AM
   <a href="https://dandillo.netlify.app/">terminal</a> ⟡
   <a href="https://guns.lol/dandillo">space</a>
 </p>
-
-</div>
 
 ---
 
