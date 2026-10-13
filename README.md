@@ -2,8 +2,6 @@
 
 Student developer exploring **Linux, AI, open source, and software development**.
 
-I like building things, breaking things, figuring out why they broke, and turning ideas into working projects.
-
 Currently focused on improving my programming skills and building software that solves real problems.
 
 ---
